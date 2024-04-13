@@ -1,10 +1,10 @@
 import pygame
 import random
 
-# Инициализация Pygame
+# иницилизация
 pygame.init()
 
-# Константы для размеров экрана и ячейки
+# размер окна и ячейка
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 CELL_SIZE = 20
